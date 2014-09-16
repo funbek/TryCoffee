@@ -1,0 +1,10 @@
+Lnstall node.js
+In comand line
+	npm install -g coffee-script
+Change your path in cmd and create two folders lib and src
+In lib create file with extension .coffee
+in cmd type 
+	coffee --compile --output lib/ src/
+
+or on watch on file 
+	coffee -o lib/ -cw src/

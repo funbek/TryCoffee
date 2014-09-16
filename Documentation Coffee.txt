@@ -1,0 +1,3 @@
+square = (x) -> x*x 	-> заменяет слово function, слово return добавляется автоматически
+" the #{container}"		задает переменную в строке,
+alert "I knew it!" if elvis? 	оператор ? позволяет проверить на null и undenfined
